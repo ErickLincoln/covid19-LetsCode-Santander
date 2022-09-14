@@ -1,7 +1,7 @@
 # Projeto final Letscode e Santander
 
 ## Finalidade
-Contruir um projeto compilando todo o conhecimento adquirido durante o curso para criaçãp de aplicação única.
+Contruir um projeto compilando todo o conhecimento adquirido durante o curso para criação de aplicação única.
 
 ## Sobre a criação:
 Projeto de pesquisa de dados com utilização de API pública
